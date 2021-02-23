@@ -6,7 +6,7 @@ To automate this script and run it daily/weekly/monthly, you can schedule the sc
 
 This same script can be used and done on other folders, all you need is to change the folder path. 
 
-![image](images/downloads_folder.jpg)
+![image](images/)
 
 
 
