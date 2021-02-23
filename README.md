@@ -1,2 +1,5 @@
 # Organize Downloads Folder
-Organize your downloads folder using this script
+
+##### This script will help organizing your downloads folder using Python.
+
+
