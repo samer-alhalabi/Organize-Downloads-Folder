@@ -9,3 +9,5 @@ This same script can be used and done on other folders, all you need is to chang
 ![image](images/downloads_folder.jpg)
 
 
+
+
